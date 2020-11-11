@@ -45,5 +45,6 @@ Ahn_Sang_Hoon
 
 |        주차         |               Keepbang               |               Jseastar               |             Jieun0603             |          Ahn_Sang_Hoon          |
 | :-----------------: | :----------------------------------: | :----------------------------------: | :-------------------------------: | :-----------------------------: |
-| 2020.11.02 (Week 1) | [:link:](./Weekly/Week%201/keepbang) | [:link:](./Weekly/Week%201/Jseastar) | [:link:](./Weekly/Week%201/Jieun) | [:link:](./Weekly/Week%201/ASH) |
+| Week 1 | [:link:](./Weekly/week_1/keepbang) | [:link:](./Weekly/week_1/Jseastar) | [:link:](./Weekly/week_1/Jieun0603) | [:link:](./Weekly/week_1/Ahn_Sang_Hoon) |
+| Week 2 | [:link:](./Weekly/week_2/Keepbang) | [:link:](./Weekly/week_2/Jseastar) | [:link:](./Weekly/week_2/Jieun0603) | [:link:](./Weekly/week_2/Ahn_Sang_Hoon) |
 
