@@ -39,6 +39,7 @@ Ahn_Sang_Hoon
 
 - [Week 1 (2020.11.02 ~ 2020.11.08)](./Weekly/week_1)
 - [Week 2 (2020.11.09 ~ 2020.11.15)](./Weekly/week_2)
+- [Week 3 (2020.11.16 ~ 2020.11.29)](./Weekly/week_3)
 
 
 ## 🐢스터디 진도표
@@ -47,4 +48,5 @@ Ahn_Sang_Hoon
 | :-----------------: | :----------------------------------: | :----------------------------------: | :-------------------------------: | :-----------------------------: |
 | Week 1 | [:link:](./Weekly/week_1/keepbang) | [:link:](./Weekly/week_1/Jseastar) | [:link:](./Weekly/week_1/Jieun0603) | [:link:](./Weekly/week_1/Ahn_Sang_Hoon) |
 | Week 2 | [:link:](./Weekly/week_2/Keepbang) | [:link:](./Weekly/week_2/Jseastar) | [:link:](./Weekly/week_2/Jieun0603) | [:link:](./Weekly/week_2/Ahn_Sang_Hoon) |
+| Week 3 | [:link:](./Weekly/week_3/Keepbang) | [:link:](./Weekly/week_3/Jseastar) | [:link:](./Weekly/week_3/Jieun0603) | [:link:](./Weekly/week_3/Ahn_Sang_Hoon) |
 
