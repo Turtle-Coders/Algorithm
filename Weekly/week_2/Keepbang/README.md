@@ -1,4 +1,6 @@
 # [Binary Tree Tilt](./BinaryTreeTilt.js)
+시간복잡도는 return될때 왼쪽한번 오른쪽한번 재귀함수를 호출하니까 1 + fn(n/2) + fn(n/2)이므로 O(logn)이된다.(이진 트리 탐색 시간복잡도)
+하지만 노드가 한쪽으로만있을때에는 최악의 경우 O(h=트리의 높이)만큼 시간이걸린다.
 
 # [Merge Two Sorted Lists](./MergeTwoSortedLists.js)
 
