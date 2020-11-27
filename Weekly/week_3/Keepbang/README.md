@@ -1,3 +1,5 @@
+# [Binary Tree Tilt](../../week_2/Keepbang)
+(전 주차에 풀이있음)
 # [Climbing Stairs](./ClimbingStairs.js)
 값을 대입해보면서 쭉 나열해보면 한가지 규칙이있다는것을 볼 수 있다
 ```
