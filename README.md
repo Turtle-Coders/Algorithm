@@ -23,8 +23,6 @@
     ...
 ```
 
-Ahn_Sang_Hoon
-
 ## 🐢Study plan
 
 - 스터디 시작 시점으로부터 정해진 문제를 해당 주 일요일까지 풀고 문제 풀이와 코드를 **'해당주차 > 자기 github name 폴더'** 에 저장함
@@ -46,7 +44,7 @@ Ahn_Sang_Hoon
 
 |        주차         |               Keepbang               |               Jseastar               |             Jieun0603             |          Ahn_Sang_Hoon          |
 | :-----------------: | :----------------------------------: | :----------------------------------: | :-------------------------------: | :-----------------------------: |
-| Week 1 | [:link:](./Weekly/week_1/keepbang) | [:link:](./Weekly/week_1/Jseastar) | [:link:](./Weekly/week_1/Jieun0603) | [:link:](./Weekly/week_1/Ahn_Sang_Hoon) |
-| Week 2 | [:link:](./Weekly/week_2/Keepbang) | [:link:](./Weekly/week_2/Jseastar) | [:link:](./Weekly/week_2/Jieun0603) | [:link:](./Weekly/week_2/Ahn_Sang_Hoon) |
+| Week 1 | [:link:](./Weekly/week_1/keepbang) | [:link:](./Weekly/week_1/Jseastar) | [:link:](./Weekly/week_1/Jieun0603) | [:link:](./Weekly/week_1/dvhuni) |
+| Week 2 | [:link:](./Weekly/week_2/Keepbang) | [:link:](./Weekly/week_2/Jseastar) | [:link:](./Weekly/week_2/Jieun0603) | [:link:](./Weekly/week_2/dvhuni) |
 | Week 3 | [:link:](./Weekly/week_3/Keepbang) | [:link:](./Weekly/week_3/Jseastar) | [:link:](./Weekly/week_3/Jieun0603) | [:link:](./Weekly/week_3/Ahn_Sang_Hoon) |
 
