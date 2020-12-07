@@ -45,8 +45,8 @@
 
 |        주차         |               Keepbang               |               Jseastar               |             Jieun0603             |          Ahn_Sang_Hoon          |
 | :-----------------: | :----------------------------------: | :----------------------------------: | :-------------------------------: | :-----------------------------: |
-| Week 1 | [:link:](./Weekly/week_1/keepbang) | [:link:](./Weekly/week_1/Jseastar) | [:link:](./Weekly/week_1/Jieun0603) | [:link:](./Weekly/week_1/dvhuni) |
-| Week 2 | [:link:](./Weekly/week_2/Keepbang) | [:link:](./Weekly/week_2/Jseastar) | [:link:](./Weekly/week_2/Jieun0603) | [:link:](./Weekly/week_2/dvhuni) |
-| Week 3 | [:link:](./Weekly/week_3/Keepbang) | [:link:](./Weekly/week_3/Jseastar) | [:link:](./Weekly/week_3/Jieun0603) | [:link:](./Weekly/week_3/dvhuni) |
+| Week 1 | [:link:](./Weekly/week_1/keepbang) | [:link:](./Weekly/week_1/Jseastar) | [:link:](./Weekly/week_1/Jieun0603) | [:link:](./Weekly/week_1/dvHuni) |
+| Week 2 | [:link:](./Weekly/week_2/Keepbang) | [:link:](./Weekly/week_2/Jseastar) | [:link:](./Weekly/week_2/Jieun0603) | [:link:](./Weekly/week_2/dvHuni) |
+| Week 3 | [:link:](./Weekly/week_3/Keepbang) | [:link:](./Weekly/week_3/Jseastar) | [:link:](./Weekly/week_3/Jieun0603) | [:link:](./Weekly/week_3/dvHuni) |
 | Week 4 | [:link:](./Weekly/week_4/Keepbang) | [:link:](./Weekly/week_4/Jseastar) | [:link:](./Weekly/week_4/Jieun0603) | [:link:](./Weekly/week_4/dvhuni) |
 
