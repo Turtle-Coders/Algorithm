@@ -44,7 +44,7 @@
 
 ## 🐢스터디 진도표
 
-|        주차         |               Keepbang               |               Jseastar               |             Jieun0603             |          Ahn_Sang_Hoon          |
+|        주차         |               Keepbang               |               Jseastar               |             Jieun0603             |          dvHuni          |
 | :-----------------: | :----------------------------------: | :----------------------------------: | :-------------------------------: | :-----------------------------: |
 | Week 1 | [:link:](./Weekly/week_1/keepbang) | [:link:](./Weekly/week_1/Jseastar) | [:link:](./Weekly/week_1/Jieun0603) | [:link:](./Weekly/week_1/dvHuni) |
 | Week 2 | [:link:](./Weekly/week_2/Keepbang) | [:link:](./Weekly/week_2/Jseastar) | [:link:](./Weekly/week_2/Jieun0603) | [:link:](./Weekly/week_2/dvHuni) |
