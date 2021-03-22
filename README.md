@@ -41,6 +41,7 @@
 - [Week 4](./Weekly/week_4)
 - [Week 5](./Weekly/week_5)
 - [Week 6](./Weekly/week_6)
+- [Week 7](./Weekly/week_7)
 
 
 ## 🐢스터디 진도표
@@ -52,3 +53,6 @@
 | Week 3 | [:link:](./Weekly/week_3/Keepbang) | [:link:](./Weekly/week_3/Jseastar) | [:link:](./Weekly/week_3/Jieun0603) | [:link:](./Weekly/week_3/dvHuni) |
 | Week 4 | [:link:](./Weekly/week_4/Keepbang) | [:link:](./Weekly/week_4/Jseastar) | [:link:](./Weekly/week_4/Jieun0603) | [:link:](./Weekly/week_4/dvHuni) |
 | Week 5 | [:link:](./Weekly/week_5/Keepbang) | [:link:](./Weekly/week_5/Jseastar) | [:link:](./Weekly/week_5/Jieun0603) | [:link:](./Weekly/week_5/dvHuni) |
+| Week 6 | [:link:](./Weekly/week_6/Keepbang) | [:link:](./Weekly/week_6/Jseastar) | [:link:](./Weekly/week_6/Jieun0603) | [:link:](./Weekly/week_6/dvHuni) |
+| Week 7 | [:link:](./Weekly/week_7/Keepbang) | [:link:](./Weekly/week_7/Jseastar) | [:link:](./Weekly/week_7/Jieun0603) | [:link:](./Weekly/week_7/dvHuni) |
+
