@@ -1,9 +1,12 @@
 # [First Bad Version]
 ```
-Binary search를 활용하여 bad version을 찾음
+Binary search를 활용
 
-검색할때 값을 반으로 나눠서 검색하기 때문에 시간복잡도는 O(logn)
+가장 작은 값과 큰 값의 중간을 탐색
+중간값(mid)과 비교하여 검색대상을 반으로 줄임
 
-반으로 나눈값을 x라 했을때 x가 bad version이면 최소한의 bad version은 x이거나 x아래에있고
-x가 bad version이 아니면 bad version은 x보다 큰값임
+처음에 low + high / 2 로 했으나 오버플로우 버그 발생
+
+-> 해결책 low + (high - low) / 2 로 해야 오버플로우가 발생하지 않음
+
 ```
