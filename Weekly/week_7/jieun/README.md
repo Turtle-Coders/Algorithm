@@ -1,4 +1,4 @@
-# [First Bad Version](Weekly/week_7/jieun/FirstBadVersion.java)
+# [First Bad Version](./FirstBadVersion.java)
 ```
 Binary search를 활용
 
