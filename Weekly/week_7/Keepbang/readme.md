@@ -1,6 +1,6 @@
 # [First Bad Version](./FirstBadVersion.js)
 
-```aidl
+```
 Binary search를 활용하여 bad version을 찾음
 
 검색할때 값을 반으로 나눠서 검색하기 때문에 시간복잡도는 O(logn)
