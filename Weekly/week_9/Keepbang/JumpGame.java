@@ -1,5 +1,8 @@
 class Solution {
     public boolean canJump(int[] nums) {
+        if(nums.length == 1){
+            return true;
+        }
         
         int max = 0;
         int len = nums.length -1;
@@ -10,8 +13,6 @@ class Solution {
             max = Math.max(i + nums[i],max);
             if(max >= len) return true;
         }
-        
-        if(max >= len) return true;
         
         return false;
     }
