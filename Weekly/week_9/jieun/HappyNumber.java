@@ -1,8 +1,11 @@
 class Solution {
     public boolean isHappy(int n) {
+	    
 	Set<Integer> cache = new HashSet(); 
-	while (!cache.contains(n)){
-		while (n > 1) {
+	    
+	while (n > 1) {
+		if (!cache.contains(n)){
+			cache.add(n);
 			int total = 0;
 			String[] happyNum = String.valueOf(n).split("");
 
@@ -10,14 +13,16 @@ class Solution {
 				if (!"".equals(StringNum)) {
 					int num = Integer.parseInt(StringNum);
 					total += num*num;
-					cache.add(total);
 				}
 			}
+			
 			n = total; 
-		}
+		} else {
+            		return false;
+        	}
 	}
-        
-        if (n != 1){
+	
+	if (n != 1){
         	return false;
         } else {
         	return true;
