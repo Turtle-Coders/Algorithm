@@ -1,3 +1,4 @@
+
 ##
 # Add Two Numbers
 
@@ -5,6 +6,7 @@
   - O(n) : Recursive이므로 최악의 경우 입력갯수인 n 만큼 반복.
     
 ## 문제 풀이
+![IMG_2276](https://user-images.githubusercontent.com/39300449/116773497-7b905080-aa90-11eb-8ede-87dc5305c811.jpg)
   - output이 ListNode로 나와야 하기 때문에 ListNode initalizer를 직접 따라가다보면 Recursive(initalizer에서 addTwoNumbers를 다시 호출)적인 부분을 발견 할 수 있다.
   - 놓쳤던 부분이 두가지 있는데, **올림수**, **다음재귀**이다.
   1. 올림수
