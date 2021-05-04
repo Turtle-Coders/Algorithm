@@ -46,6 +46,7 @@
 - [Week 9](./Weekly/week_9)
 - [Week 10](./Weekly/week_10)
 - [Week 11](./Weekly/week_11)
+- [Week 12](./Weekly/week_12)
 
 
 ## 🐢스터디 진도표
