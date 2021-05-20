@@ -5,5 +5,9 @@
   - O(n)
   
 ## 문제 풀이
-  - Origin Array의 index를 Array에 랜덤으로 삽입 시킨 후, 해당 인덱스로 Orign Array의 값을 뽑아오는 식으로 shuffle -> 440ms
+  - 셔플 방법 (440ms)
+      1. 아이템수만큼의 인덱스 Array 만들기 (origin:[char] = [a,b,c,d] => [0,1,2,3])
+      2. 인덱스 Array에서 랜덤으로 index를 꺼내오고, 해당 index는 Array에서 제거한다.
+      3. 꺼낸 index로 아이템을 뽑아 Array로 만든다. (origin[꺼낸 index])
+      4. 만들어진 Array return
   - Array.shuffle -> 320ms
