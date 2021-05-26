@@ -3,9 +3,9 @@ class Solution {
         int max = 0;
         
         for (int i = 0; i < prices.length-1; i++) {
-            int curr = prices[i];   //현재 값
+            int curr = prices[i];   
             for (int j = i+1; j < prices.length; j++) {
-                int next = prices[j]; // 다음 값
+                int next = prices[j]; 
                 
                 if (next-curr > 0) {
                     if (max < next-curr) {
