@@ -35,20 +35,14 @@
 
 ## 🐢주차별 문제 보기
 
-- [Week 1](./Weekly/week_1)
-- [Week 2](./Weekly/week_2)
-- [Week 3](./Weekly/week_3)
-- [Week 4](./Weekly/week_4)
-- [Week 5](./Weekly/week_5)
-- [Week 6](./Weekly/week_6)
-- [Week 7](./Weekly/week_7)
-- [Week 8](./Weekly/week_8)
-- [Week 9](./Weekly/week_9)
+- [이전 주차](./Weekly/)
 - [Week 10](./Weekly/week_10)
 - [Week 11](./Weekly/week_11)
 - [Week 12](./Weekly/week_12)
 - [Week 13](./Weekly/week_13)
 - [Week 14](./Weekly/week_14)
+- [Week 15](./Weekly/week_15)
+- [Week 16](./Weekly/week_16)
 
 
 ## 🐢스터디 진도표
@@ -66,4 +60,9 @@
 | Week 9 | [:link:](./Weekly/week_9/Keepbang) | [:link:](./Weekly/week_9/Jseastar) | [:link:](./Weekly/week_9/Jieun0603) | [:link:](./Weekly/week_9/dvHuni) |
 | Week 10 | [:link:](./Weekly/week_10/Keepbang) | [:link:](./Weekly/week_10/Jseastar) | [:link:](./Weekly/week_10/Jieun0603) | [:link:](./Weekly/week_10/dvHuni) |
 | Week 11 | [:link:](./Weekly/week_11/Keepbang) | [:link:](./Weekly/week_11/Jseastar) | [:link:](./Weekly/week_11/Jieun0603) | [:link:](./Weekly/week_11/dvHuni) |
+| Week 12 | [:link:](./Weekly/week_12/Keepbang) | [:link:](./Weekly/week_12/Jseastar) | [:link:](./Weekly/week_12/Jieun0603) | [:link:](./Weekly/week_12/dvHuni) |
+| Week 13 | [:link:](./Weekly/week_13/Keepbang) | [:link:](./Weekly/week_13/Jseastar) | [:link:](./Weekly/week_13/Jieun0603) | [:link:](./Weekly/week_13/dvHuni) |
+| Week 14 | [:link:](./Weekly/week_14/Keepbang) | [:link:](./Weekly/week_14/Jseastar) | [:link:](./Weekly/week_14/Jieun0603) | [:link:](./Weekly/week_14/dvHuni) |
+| Week 15 | [:link:](./Weekly/week_15/Keepbang) | [:link:](./Weekly/week_15/Jseastar) | [:link:](./Weekly/week_15/Jieun0603) | [:link:](./Weekly/week_15/dvHuni) |
+| Week 16 | [:link:](./Weekly/week_16/Keepbang) | [:link:](./Weekly/week_16/Jseastar) | [:link:](./Weekly/week_16/Jieun0603) | [:link:](./Weekly/week_16/dvHuni) |
 
