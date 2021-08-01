@@ -43,6 +43,9 @@
 - [Week 14](./Weekly/week_14)
 - [Week 15](./Weekly/week_15)
 - [Week 16](./Weekly/week_16)
+- [Week 17](./Weekly/week_17)
+- [Week 18](./Weekly/week_18)
+- [Week 19](./Weekly/week_19)
 
 
 ## 🐢스터디 진도표
@@ -65,4 +68,7 @@
 | Week 14 | [:link:](./Weekly/week_14/Keepbang) | [:link:](./Weekly/week_14/Jseastar) | [:link:](./Weekly/week_14/Jieun0603) | [:link:](./Weekly/week_14/dvHuni) |
 | Week 15 | [:link:](./Weekly/week_15/Keepbang) | [:link:](./Weekly/week_15/Jseastar) | [:link:](./Weekly/week_15/Jieun0603) | [:link:](./Weekly/week_15/dvHuni) |
 | Week 16 | [:link:](./Weekly/week_16/Keepbang) | [:link:](./Weekly/week_16/Jseastar) | [:link:](./Weekly/week_16/Jieun0603) | [:link:](./Weekly/week_16/dvHuni) |
+| Week 17 | [:link:](./Weekly/week_17/Keepbang) | [:link:](./Weekly/week_17/Jseastar) | [:link:](./Weekly/week_17/Jieun0603) | [:link:](./Weekly/week_17/dvHuni) |
+| Week 18 | [:link:](./Weekly/week_18/Keepbang) | [:link:](./Weekly/week_18/Jseastar) | [:link:](./Weekly/week_18/Jieun0603) | [:link:](./Weekly/week_18/dvHuni) |
+| Week 19 | [:link:](./Weekly/week_19/Keepbang) | [:link:](./Weekly/week_19/Jseastar) | [:link:](./Weekly/week_19/Jieun0603) | [:link:](./Weekly/week_19/dvHuni) |
 
